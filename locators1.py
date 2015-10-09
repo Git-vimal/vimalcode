@@ -1,8 +1,8 @@
 __author__ = 'vimalpat'
 
 url = ('https://www.gmail.com')
-username = ('vimalpatidar007@gmail.com')
-acc_pass = ('@Shreeram1')
+username = ('')
+acc_pass = ('')
 Email = ('Email')
 next = ('next')
 password = ('Passwd')
