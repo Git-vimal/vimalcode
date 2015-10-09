@@ -1,0 +1,5 @@
+Following are the prerequisite for running the code.
+1. Use Gmail.py and locators1.py in same path while running the code
+2. Run the code in Chrome Browser only.
+3. Point the driver to chromedriver.exe while running the code.
+4. In locators1.py fill the values of username and acc_pass with gmail-username and password respectively.
