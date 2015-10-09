@@ -13,7 +13,6 @@ class gmail(unittest2.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.driver = webdriver.Chrome("chromedriver.exe")
-        #cls.driver = webdriver.Firefox()
         cls.driver.get(locators1.url)
 
     def test_case001(self):
